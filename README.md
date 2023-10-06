@@ -2,9 +2,6 @@
 
 Multiverse Hub
 
-## Description
-
-[Provide a brief description of your Discord bot, its purpose, and what it can do.]
 
 ## Table of Contents
 
@@ -74,9 +71,9 @@ Contributing
 
 Fork the repository on GitHub.
 Clone your forked repository to your local machine.
-Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
+Create a new branch for your feature or bug fix: git checkout -b feature/multiversehub.
 Make your changes and commit them with descriptive messages.
-Push your branch to your forked repository: git push origin feature/your-feature-name.
+Push your branch to your forked repository: git push origin feature/multiversehub.
 Create a pull request on the original repository.
 License
 [Specify the license under which your bot is distributed. Common choices include MIT, Apache 2.0, or GPL. Include a link to the full license text.]
